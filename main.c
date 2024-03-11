@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("hello world! \n");
+    printf("hello world! from ipad\n");
     return 0;
 }
